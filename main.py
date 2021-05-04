@@ -10,7 +10,7 @@ def start():
 
   clear()
   print("Teddy's MadLibs \n")
-  print("It's normal to be asked the same question multiple times,\n just answer differently each time.\n")
+  print("It's normal to be asked the same question multiple times,\njust answer differently each time.\n")
 
   # Variables Defined with placeholder value
   per1 = "a"
@@ -67,7 +67,7 @@ def start():
   madlib3.append(str(inf1))
   # Print Final Story
   print("\nThe", madlib2d[0][1], madlib2d[0][0], "ran", madlib2d[0][2], "to", madlib2d[0][3] + ".")
-  print("Consequently, the", madlib2d[1][0], madlib2d[1][1], "threw him to", madlib2d[1][2]+ "")
+  print("Consequently, the", madlib2d[1][0], madlib2d[1][1], "threw him to", madlib2d[1][2]+ ".")
   print("In the end,", madlib2d[2][0], "decided", madlib2d[2][1] + ".")
 
   def choose():
