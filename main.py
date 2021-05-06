@@ -11,16 +11,6 @@ def start():
   clear()
   print("Teddy's MadLibs \n")
   print("It's normal to be asked the same question multiple times,\njust answer differently each time.\n")
-
-  # Variables Defined with placeholder value
-  per1 = "a"
-  adj1 = "a"
-  adv1 = "a"
-  nou1 = "a"
-  adv2 = "a"
-  per2 = "a"
-  nou2 = "a"
-  inf1 = "a"
   
   # Randomly Shuffles Variables
   rng = [1,2,3,4,5,6]
