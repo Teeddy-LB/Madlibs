@@ -37,7 +37,7 @@ def start():
       break
 
 
-    # These Questions are Dependent of Eachother, therefore they are asked later to make re they 
+    # These Questions are Dependent of Eachother, therefore they are asked later
   nou1 = input("Input a Place: ")
   per2 = input("Input a Person who works at the Place: ")
   # Add Madlib Inputs to Array
